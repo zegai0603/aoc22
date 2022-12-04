@@ -17,14 +17,14 @@ int main()
             if (sum > largest)
             {
                 largest = sum;
-            };
+            }
             sum = 0;
         }
         else
         {
             sum += stoi(line);
-        };
-    };
+        }
+    }
 
     cout << largest;
-};
+}
