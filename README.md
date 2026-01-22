@@ -1,1 +1,1 @@
-# aoc22
+# Advent of Calendar 2022 (incomplete)
